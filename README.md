@@ -239,7 +239,7 @@ Du skal have en "relation" til firmaet der udstiller API'et, betalt eller ej.
 | [Det Centrale Ordregister](https://ordregister.dk/)                                                                                 |           JSON           |     Public     |
 | [FindToilet.dk](https://beta.findtoilet.dk/feeds/municipality)                                                                      | JSON, XML, CSV, KML, RSS |     Public     |
 | [elprisenligenu.dk](https://www.elprisenligenu.dk/elpris-api)                                                                       |           JSON           |     Public     |
-| [sikkerapi.com](https://sikkerapi.com/docs) - IP Reputation & Trusselsintelligens                                                   |      JSON/PLAIN          |     Public     |
+| [sikkerapi.com](https://sikkerapi.com/docs)                                                                                         |      JSON/PLAIN          |     Public     |
 
 ## Finans
 
